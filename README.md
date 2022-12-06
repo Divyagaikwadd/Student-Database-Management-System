@@ -1,7 +1,8 @@
 # Student-Database-Management-System
 This is the project of student Database Management System. IN this project we can perform various operation on the database such as insertion , deletion , updation  on student records. here we are using the Html , CSS , PHP &amp; Mysql. To run this project use XAMPP software.
 
-#Output of this project
+# Output of this project:
+
 ![Screenshot (88)](https://user-images.githubusercontent.com/99081628/205954833-4034035f-a762-4d8e-b28c-192e89edf475.png)
    
                 This is Home page where all records is shown
